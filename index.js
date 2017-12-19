@@ -1,6 +1,6 @@
-const musicians = ["John", "Paul", "George", "Ringo"];
+const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 
-const instruments = ["guitar", "guitar", "bass", "drums"];
+const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 
 function theBeatlesPlay(musicians, instruments) {
